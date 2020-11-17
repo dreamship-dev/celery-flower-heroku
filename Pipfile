@@ -5,6 +5,7 @@ name = "pypi"
 
 [packages]
 flower = "*"
+celery = "*"
 
 [dev-packages]
 
